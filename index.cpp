@@ -7,4 +7,7 @@ using namespace std;
 
 int main() {
   cout << "Hello clone!" << endl;
+
+  cout << "New line." << endl;
+  cout << "Another line." << endl;
 }
